@@ -26,7 +26,7 @@ sudo pip3 install wikipedia
 sudo pip3 install tweepy
 sudo pip3 install youtube_dl
 `https://github.com/Dzulkiflibot/Sbpro-DK.git
-cd ajs2
+cd Sbpro-DK
 python Kifli12.py
 INSTALL Di TERMUX :
 
@@ -47,7 +47,7 @@ pip3 install wikipedia
 pip3 install youtube_dl
 pip3 install tweepy
 https://github.com/Dzulkiflibot/Sbpro-DK.git
-`cd DKBOT-ANTIJS
+`cd Sbpro-Dk
 python3 kiflisb.py
 Cara Menjalankan Bot Kembali :
 Di C9 :
@@ -56,10 +56,10 @@ Di C9 :
 `python3 kiflisb.py
 Di Termux :
 
-cd DKBOT-ANTIJS
+cd SbproDK
 python3 kifli12.py
 EDITOR BY DZULKIFLI
-Add My ID LINE :http://line.me/ti/p/~reza.p.i.p pakai titik ya 😂 #cuma saran bukan menggurui sweat_smile #aku juga masih pekok kuadratblush
+Add My ID LINE :http://line.me/ti/p/~reza.p.i.p pakai titik ya 😂 #cuma saran bukan menggurui sweat_smile #aku juga masih pekok kuadrat
 Thx To : ALLOH SWT & All
 SALAM HORMAT BUAT PARA MASTAH SEMUANYA 😅
 i'm happy's to meet you
