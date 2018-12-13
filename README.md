@@ -1,9 +1,9 @@
 # Sbpro-DK
 Dzulkifli-DK
-BOT PROTECT PY3 ANTI JS DK-BOT LINEbirdFIXS UPDATE:JUM'AT 7 DESEMBER 2018
+BOT PROTECT PY3 ANTI JS DK-BOT LINEbirdFIXS UPDATE:Kamis 13 DESEMBER 2018
 GET TOKEN :
 Google Chrome
-http://101.255.95.249:6969
+https://github.com/Dzulkiflibot/Sbpro-DK.git
 Cara Install Bot :
 HEADER CHROME
 
@@ -25,7 +25,7 @@ sudo pip3 install pafy
 sudo pip3 install wikipedia
 sudo pip3 install tweepy
 sudo pip3 install youtube_dl
-`git clone https://github.com/Dzulkifli1/DKBOT-ANTIJS.git
+`https://github.com/Dzulkiflibot/Sbpro-DK.git
 cd ajs2
 python Kifli12.py
 INSTALL Di TERMUX :
@@ -46,14 +46,14 @@ pip3 install goslate
 pip3 install wikipedia
 pip3 install youtube_dl
 pip3 install tweepy
-`git clone https://github.com/Dzulkifli1/DKBOT-ANTIJS.git
+https://github.com/Dzulkiflibot/Sbpro-DK.git
 `cd DKBOT-ANTIJS
-python3 kifli5.py
+python3 kiflisb.py
 Cara Menjalankan Bot Kembali :
 Di C9 :
 
 `cd DKBOT-ANTIJS
-`python3 kifli5.py
+`python3 kiflisb.py
 Di Termux :
 
 cd DKBOT-ANTIJS
@@ -62,3 +62,4 @@ EDITOR BY DZULKIFLI
 Add My ID LINE :http://line.me/ti/p/~reza.p.i.p pakai titik ya 😂 #cuma saran bukan menggurui sweat_smile #aku juga masih pekok kuadratblush
 Thx To : ALLOH SWT & All
 SALAM HORMAT BUAT PARA MASTAH SEMUANYA 😅
+i'm happy's to meet you
