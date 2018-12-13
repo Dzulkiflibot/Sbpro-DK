@@ -55,7 +55,8 @@ Di C9 :
 `cd DKBOT-ANTIJS
 `python3 kiflisb.py
 Di Termux :
-
+Join SQ DKBOT,Silahkan di klik : [DKBOT] Anda diundang ke obrolan "DKBOT".
+https://line.me/ti/g2/cOzpzeS3PFKAT2lNYgoRHua41-k3EUXSzyHkzconoxZfiIWABf6iqre9f5mjbpz_
 cd SbproDK
 python3 kifli12.py
 EDITOR BY DZULKIFLI
