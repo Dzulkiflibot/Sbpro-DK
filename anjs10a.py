@@ -609,7 +609,7 @@ def help2():
                   "「🔑] " + key + "sᴇᴛ ʟᴇᴀᴠᴇ:「ᴛᴇxᴛ」\n" + \
                   "「🔑] " + key + "sᴇᴛ ᴡᴇʟᴄᴏᴍᴇ:「ᴛᴇxᴛ」\n" + \
                   " [🔑DKBOT-LINE]🕸 ⃢   ⟗\n" + \
-                  "🔑Creator:  line.me/ti/p/~reza.p.i.p"
+                  "🔑Creator:  line.me/ti/p~dzul1991ji"
 
     return helpMessage2
 
@@ -656,7 +656,7 @@ def help3():
                   "「🔑」 " + key + "Get-instagram「User Name」\n" + \
                   "「🔑」 " + key + "Get-date「tgl-bln-thn」\n" + \
                   "「🔑」ʙʏ: Dzulkifli🕸 ⃢   ⟗\n" + \
-                  "  Creator:  line.me/ti/p/~reza.p.i.p"
+                  "  Creator:  line.me/ti/p~dzul1991ji"
 
     return helpMessage3
 
