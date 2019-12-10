@@ -19,7 +19,8 @@ Tujuan nya w publikasikan script selfbot ini dgn alasan agar sc nya berkembang (
 
 Penasaran Silahkan anda pakai 
 
-Dzulkifli-DK BOT PROTECT PY3 ANTI JS DK-BOT LINEbirdFIXS UPDATE:Kamis 13 DESEMBER 2018 GET TOKEN : Google Chrome
+Dzulkifli-DK BOT PROTECT PY3 ANTI JS DK-BOT LINE
+birdFIXS UPDATE:Kamis 13 DESEMBER 2018 GET TOKEN : Google Chrome
 https://github.com/Dzulkiflibot/Sbpro-DK.git 
 Cara Install Bot : HEADER CHROME
 C9 SERVER/ VPS :
@@ -81,7 +82,7 @@ Sistem Kerja BOT kami [Bot Protecantijs]
 9. Dilarang ubah nama room,bot akan mengembalikan nama room dan kick member yg lancang kcuali admin bot
 Bonus FUN Command untuk MOD
 10.Bot akan invite kmbali admin ketika kicker menghapus admin dan staff ke room
-
+11.Ditambah banyak fitur2 menarik sprtih mp3,mp4 dll
 
 Catatan Penting !
 Moderator dilarang undang BOT kami selain Room yang sudah di Setting... dan ditentukan.
