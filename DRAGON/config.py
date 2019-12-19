@@ -26,15 +26,15 @@ class Config(object):
         'LINE_MUSIC': '1381425814',
         'LINE_BUSINESS': '1459630796'
     }
-
-    APP_TYPE    = ApplicationType._VALUES_TO_NAMES[368]
-    APP_VER     = '2.1.5'
+    APP_TYPE    = ApplicationType._VALUES_TO_NAMES[112]
+    APP_VER     = '5.8.0'
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'Dzulkifli'
+    SYSTEM_NAME = 'DKBOTS'
     SYSTEM_VER  = '11.2.5'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
     def __init__(self):
-        self.APP_NAME = '%s\t%s\t%s\t%s' % (self.APP_TYPE, self.APP_VER, self.SYSTEM_NAME, self.SYSTEM_VER)
-        self.USER_AGENT = 'Line/%s' % self.APP_VER
+        self.APP_NAME = 'DESKTOPMAC\t5.8.0\tDzulkifliDK_Os\t11.2.5'
+        self.USER_AGENT = 'Line/5.8.0'
+
